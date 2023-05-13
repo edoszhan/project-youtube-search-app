@@ -31,7 +31,7 @@ class App extends React.Component { //class based component, access to the state
         params: {
             part: 'snippet',
             maxResults: 5,
-            key: 'AIzaSyAmvfv77tAN7z9DB9YDT2GXuWKmRD3Th_w',
+        key: "Your YOUTUBE API KEY",
             q: searchTerm,
         }
     });
